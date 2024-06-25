@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Interface Netflix</string>
+    <string name="the_chosen">The Chosen</string>
+    <string name="assistir">Assistir</string>
+    <string name="baixar">Baixar T1:E8</string>
+    <string name="doismilevintetres">2023</string>
+    <string name="trestemporadas">3 temporadas</string>
+    <string name="titulo">T1:E8 \"Eu sou Ele\"</string>
+    <string name="descricao">Mateus leva Jesus e os outros discípulos para jantar em sua casa. Nicodemos tem dúvidas sobre o caminho que deve seguir.</string>
+    <string name="estrelando">Estrelando:</string>
+    <string name="atores">Shahar Isaac, Elizabeth Tabish, Jonathan Roumie…</string>
+    <string name="criacao">Criação:</string>
+    <string name="diretor"> Dallas Jenkins</string>
+    <string name="reproducao"> Interface reproduzida por:</string>
+    <string name="erik">Erik Hsu</string>
+    <string name="minha_lista">Minha lista</string>
+    <string name="classificar">Classificar</string>
+    <string name="compartilhe">Compartilhe</string>
+    <string name="baixartemp">Baixar\nTemporada 1</string>
+
+</resources>
